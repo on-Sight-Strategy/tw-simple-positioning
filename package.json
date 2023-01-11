@@ -1,0 +1,14 @@
+{
+  "name": "@on-sight-strategy/tw-simple-positioning",
+  "version": "1.0.0",
+  "description": "Adds various TailwindCSS utilities that simplify positioning with flex, grid, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "on/Sight",
+  "license": "ISC",
+  "peerDependencies": {
+    "tailwindcss": ">=3.0.0"
+  }
+}
